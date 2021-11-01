@@ -1,6 +1,7 @@
 # Web application for management of hotel chains.
 
-There are several types of employees such as managers, clerka, etc. that are in charge of guests of every hotel in the chain.
+This app is intended for a chain which can have hotels in different locations.
+There are several types of employees such as managers, clerks, etc. that are in charge of guests of every hotel in the chain.
 Guests have options to reserve few types of rooms. They can also request some services for additional price.
 Room prices have discounts based on seasons or on specific groups of people.
 
